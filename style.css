@@ -1,0 +1,12 @@
+#canvas {
+    border: 1px solid black;
+}
+#color {
+    height: 30px;
+}
+#size {
+    width: 60px;
+}
+#canButton {
+    padding-top: 10px;
+}
